@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (steepcheat.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\Admin\Desktop\123\Offsets.h(5,3): warning C4838: Преобразование из "int" в "DWORD64" требует сужающего преобразования.
+C:\Users\Admin\Desktop\123\Offsets.h(7,3): warning C4838: Преобразование из "int" в "DWORD64" требует сужающего преобразования.
+C:\Users\Admin\Desktop\123\Offsets.h(9,3): warning C4838: Преобразование из "int" в "DWORD64" требует сужающего преобразования.
+C:\Users\Admin\Desktop\123\Offsets.h(14,3): warning C4838: Преобразование из "int" в "DWORD64" требует сужающего преобразования.
+C:\Users\Admin\Desktop\123\Offsets.h(19,3): warning C4838: Преобразование из "int" в "DWORD64" требует сужающего преобразования.
+C:\Users\Admin\Desktop\123\Offsets.h(21,3): warning C4838: Преобразование из "int" в "DWORD64" требует сужающего преобразования.
+C:\Users\Admin\Desktop\123\Offsets.h(26,3): warning C4838: Преобразование из "int" в "DWORD64" требует сужающего преобразования.
+C:\Users\Admin\Desktop\123\Math.h(136,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\Desktop\123\Math.h(138,19): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\Desktop\123\Math.h(140,19): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Admin\Desktop\123\Math.h(142,19): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Admin\Desktop\123\Math.h(143,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\123\Math.h(152,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\123\main.cpp(49,1): warning C4005: CTL_CODE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(273): message : см. предыдущее определение "CTL_CODE"
+C:\Users\Admin\Desktop\123\WeaponsData.h(37,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=UINT64
+          ]
+C:\Users\Admin\Desktop\123\BasePlayer.h(297,10): warning C4244: return: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=UINT64
+          ]
+C:\Users\Admin\Desktop\123\MiscFuncs.h(6,3): warning C4244: аргумент: преобразование "int" в "const T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Desktop\123\Aim.h(62,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\123\Aim.h(62,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1674 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SteepCheat.vcxproj -> C:\Users\Admin\Desktop\123\x64\Release\ArionSolution.exe
